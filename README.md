@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-force-daimer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for La Force D'aimer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-force-daimer/) |
+| **Get License** | [Music Rights & Licensing for La Force D'aimer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-force-daimer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6c5a446cf26fd308f26047ad86eae1620ee1e201066c5889eb6cc0abb7df6869` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
